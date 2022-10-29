@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="menu_notifikasi">Notification</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_logout">Logout</string>
+</resources>
